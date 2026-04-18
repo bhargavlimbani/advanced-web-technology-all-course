@@ -1,0 +1,28 @@
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 20:31:51"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 20:32:47"}
+{"level":"info","message":"POST /api/auth/register","service":"library-management-api","timestamp":"2026-04-18 20:34:46"}
+{"level":"info","message":"New user registered: bhargav@gmail.com (Role: librarian)","service":"library-management-api","timestamp":"2026-04-18 20:34:47"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 20:34:50"}
+{"level":"info","message":"POST /api/auth/login","service":"library-management-api","timestamp":"2026-04-18 20:35:58"}
+{"level":"info","message":"User logged in: bhargav@gmail.com","service":"library-management-api","timestamp":"2026-04-18 20:35:59"}
+{"level":"info","message":"POST /api/books?a","service":"library-management-api","timestamp":"2026-04-18 20:39:14"}
+{"level":"warn","message":"Unauthorized access attempt: Invalid token - invalid token","service":"library-management-api","timestamp":"2026-04-18 20:39:14"}
+{"level":"info","message":"POST /api/books?a","service":"library-management-api","timestamp":"2026-04-18 20:39:27"}
+{"level":"warn","message":"Unauthorized access attempt: Invalid token - invalid token","service":"library-management-api","timestamp":"2026-04-18 20:39:27"}
+{"level":"info","message":"POST /api/books?a","service":"library-management-api","timestamp":"2026-04-18 20:39:34"}
+{"level":"warn","message":"Unauthorized access attempt: Invalid token - invalid token","service":"library-management-api","timestamp":"2026-04-18 20:39:34"}
+{"level":"info","message":"POST /api/books?a","service":"library-management-api","timestamp":"2026-04-18 20:41:32"}
+{"level":"info","message":"POST /api/books?a","service":"library-management-api","timestamp":"2026-04-18 20:42:08"}
+{"level":"info","message":"Book created by Librarian bhargav@gmail.com: Clean Code","service":"library-management-api","timestamp":"2026-04-18 20:42:08"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 20:42:09"}
+{"level":"info","message":"POST /api/auth/register","service":"library-management-api","timestamp":"2026-04-18 20:44:54"}
+{"level":"info","message":"New user registered: limbanibhargavmaheshbhai@gmail.com (Role: student)","service":"library-management-api","timestamp":"2026-04-18 20:44:54"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 20:44:55"}
+{"level":"info","message":"POST /api/auth/login","service":"library-management-api","timestamp":"2026-04-18 21:13:30"}
+{"level":"info","message":"User logged in: limbanibhargavmaheshbhai@gmail.com","service":"library-management-api","timestamp":"2026-04-18 21:13:31"}
+{"level":"info","message":"POST /api/transactions/issue","service":"library-management-api","timestamp":"2026-04-18 21:17:19"}
+{"level":"info","message":"Book 0c08658d-29ae-4406-955f-ddccd624a013 issued to User 62137430-a999-4924-bced-08f45dcbc57c by limbanibhargavmaheshbhai@gmail.com","service":"library-management-api","timestamp":"2026-04-18 21:17:19"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 21:17:20"}
+{"level":"info","message":"GET /api/reports/inventory","service":"library-management-api","timestamp":"2026-04-18 21:17:46"}
+{"level":"warn","message":"Unauthorized access attempt: No token provided","service":"library-management-api","timestamp":"2026-04-18 21:17:46"}
+{"level":"info","message":"GET /api/reports/inventory","service":"library-management-api","timestamp":"2026-04-18 21:18:14"}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "90fcdb9c-be41-49f2-b583-e57a5243402c",
+    "bookId": "0c08658d-29ae-4406-955f-ddccd624a013",
+    "userId": "62137430-a999-4924-bced-08f45dcbc57c",
+    "issueDate": "2026-04-18T15:47:19.680Z",
+    "dueDate": "2026-05-02T15:47:19.680Z",
+    "returnDate": null,
+    "status": "issued",
+    "fine": 0
+  }
+]

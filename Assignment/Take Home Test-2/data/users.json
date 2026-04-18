@@ -1,0 +1,18 @@
+[
+  {
+    "id": "48d1972c-8b3e-4d37-9e10-cda856f9231e",
+    "name": "Admin Librarian",
+    "email": "bhargav@gmail.com",
+    "password": "$2b$10$u1RPVYL/c.DbAZtI8OqoKOGnUrOI.nmAQtCAwpyZDzwOAaztnUJ9q",
+    "role": "librarian",
+    "createdAt": "2026-04-18T15:04:47.395Z"
+  },
+  {
+    "id": "62137430-a999-4924-bced-08f45dcbc57c",
+    "name": "Bhargav",
+    "email": "limbanibhargavmaheshbhai@gmail.com",
+    "password": "$2b$10$LBKuPiVE4KfgIbCIjSZBZeW9HyB58UsMqgGZEPH6H.O2lLMdL9VpK",
+    "role": "student",
+    "createdAt": "2026-04-18T15:14:54.266Z"
+  }
+]
