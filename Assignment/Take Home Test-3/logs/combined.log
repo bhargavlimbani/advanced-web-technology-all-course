@@ -1,0 +1,18 @@
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","service":"library-management-api","timestamp":"2026-04-18 23:05:50"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 23:05:50"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","service":"library-management-api","timestamp":"2026-04-18 23:12:15"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 23:12:15"}
+{"level":"info","message":"POST /api/auth/register","service":"library-management-api","timestamp":"2026-04-18 23:12:17"}
+{"level":"info","message":"New user registered: bhargav@gmail.com (Role: librarian)","service":"library-management-api","timestamp":"2026-04-18 23:12:18"}
+{"level":"info","message":"POST /api/auth/login","service":"library-management-api","timestamp":"2026-04-18 23:13:34"}
+{"level":"info","message":"User logged in: bhargav@gmail.com","service":"library-management-api","timestamp":"2026-04-18 23:13:34"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","service":"library-management-api","timestamp":"2026-04-18 23:13:57"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 23:13:57"}
+{"level":"info","message":"POST /api/books","service":"library-management-api","timestamp":"2026-04-18 23:14:31"}
+{"level":"warn","message":"Unauthorized access attempt: No token provided","service":"library-management-api","timestamp":"2026-04-18 23:14:31"}
+{"level":"info","message":"POST /api/books","service":"library-management-api","timestamp":"2026-04-18 23:15:08"}
+{"level":"info","message":"Book created by Librarian bhargav@gmail.com: Clean Code","service":"library-management-api","timestamp":"2026-04-18 23:15:08"}
+{"level":"info","message":"GET /api/books","service":"library-management-api","timestamp":"2026-04-18 23:15:39"}
+{"level":"warn","message":"Unauthorized access attempt: No token provided","service":"library-management-api","timestamp":"2026-04-18 23:15:39"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","service":"library-management-api","timestamp":"2026-04-18 23:17:33"}
+{"level":"info","message":"Server is running on port 3000","service":"library-management-api","timestamp":"2026-04-18 23:17:33"}
